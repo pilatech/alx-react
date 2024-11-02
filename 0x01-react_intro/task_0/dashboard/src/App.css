@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+
+.App-header {
+  border-bottom: 4px solid red;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+h1 {
+  color: red;
+  font-size: 60px;
+}
+
+.App-body {
+  border-bottom: 4px solid red;
+  padding: 30px;
+  min-height: 50vh;
+}
+
+.App-body p {
+  font-size: 24px;
+}
+
+.App-footer p {
+  font-style: italic;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 24px;
+}
